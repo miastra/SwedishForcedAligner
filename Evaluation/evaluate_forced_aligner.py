@@ -147,8 +147,8 @@ def main():
     # Example run
     tolerances_ms = [10, 25, 50, 100, 250]
     current_path = os.path.abspath(os.path.dirname(__file__))
-    fa_path = os.path.join(current_path, 'Evaluation_example_fa')
-    target_path = os.path.join(current_path, 'Evaluation_example_target')
+    fa_path = os.path.join(current_path, 'Evaluation_example', 'FA')
+    target_path = os.path.join(current_path, 'Evaluation_example', 'Target')
     evaluate_aligner(tolerances_ms, fa_path, target_path)
 
 if __name__ == "__main__":
