@@ -1,6 +1,5 @@
 import os
 
-
 # Return a set with all files that that are not common for all folders
 def differing_files(folders):
     num_folders = len(folders)
