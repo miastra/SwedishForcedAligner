@@ -1,0 +1,650 @@
+0 n o l 
+00 n o l n o l 
+1 e t 
+10 t il u 
+11 e l v a 
+12 t o l v 
+13 t r e t o n 
+14 f j ul tr o n 
+15 f e m t o n 
+16 s e k s t o n 
+17 S ox t o n 
+18 al tr o n 
+19 n i t o n 
+2 t v ol 
+20 S uxl g e 
+20 S uxl g u 
+22 S uxl g u t v ol 
+25 S uxl g u f e m 
+3 t r el 
+30 t r e t i 
+4 f uel r a 
+45 f oe tr i f e m 
+5 f e m 
+6 s e k s 
+7 S uxl 
+8 o t a 
+9 n il u 
+ABORRKROKEN a b o r k r ul k e n 
+ADJÖ a j oel 
+ADRESS a d r e s 
+ADRESSEN a d r e s e n 
+ADRESSERNA a d r e s ae nr a 
+AFFÄR a f ael r 
+AH al h 
+ALL a l 
+ALLA a l a 
+ALLT a l t 
+ANDRA a n d r a 
+ANKOMST a n k o m s t 
+ANLÄNDER a n l ae n d ae r 
+ANNAN a n a n 
+ANNAT a n a t 
+ANTAL a n t al l 
+ATT a t 
+AV al v 
+AVGÅNG al v g o ng 
+AVGÅNGSPLATSER al v g o ng s p l a t s e r 
+AVGÅNGSTIDEN al v g o ng s t il d e n 
+AVGÅR al v g ol r 
+AVSLUTA al v s l uxl t a 
+AVSLUTAR al v s l uxl t a r 
+BARA b al r a 
+BARN b al nr 
+BEKVÄMT b e k v ael m t 
+BESTÄLLA b e s t ae l a 
+BESTÄMMER b e s t ae m e r 
+BESÖKARE b e s oel k a r e 
+BETALA b e t al l a 
+BETYDER b e t uel d ae r 
+BILJETT b i l j e t 
+BILJETTEN b i l j e t e n 
+BILJETTER b i l j e t ae r 
+BILJETTERNA b i l j e t ae nr a 
+BILLIGASTE b i l i g a s t e 
+BILLIGT b i l i g t 
+BIO b il u 
+BJÖRKÖ b j oe r k oel 
+BLI b l il 
+BLIR b l il r 
+BO b ul 
+BOKA b ul k a 
+BRA b r al 
+BREVIK b r e v il k 
+BROTTÖ b r o t oel 
+BULLERÖ b ox l e r oel 
+BULLERÖN b ox l e r oel n 
+BUSS b ox s 
+BÅDE b ol d e 
+BÅT b ol t 
+BÅTAR b ol t a r 
+BÅTARNA b ol t n a 
+BÅTEN b ol t e n 
+BÅTFÖRBINDELSE b ol t f oe r b i n d e l s e 
+BÅTTID b o t il d 
+BÅTTIDER b o t il d ae r 
+BÄRS b ael C 
+BÖRJA b oe r j a 
+BÖRJAN b oe r j a n 
+BÖRJAR b oe r j a r 
+CAFETERIA k a f e t el r i a 
+CAMPA k a m p a 
+CAMPAR k a m p a r 
+CAMPING k a m p i ng 
+CAMPINGPLATS k a m p i ng p l a t s 
+CAMPINGPLATSEN k a m p i ng p l a t s e n 
+CAMPINGPLATSER k a m p i ng p l a t s e r 
+CAMPINGPLATSER k a m p i ng p l a t s ae r 
+CENTRALEN s e n t r al l e n 
+CENTRUM s e n t r ox m 
+CYKLAR s uel k l a r 
+DAG d al g 
+DAGAR d al g a r 
+DAGEN d al g e n 
+DAGS d a g s 
+DALARÖ d al l a r oel 
+DATORN d al t o r 
+DE d u m 
+DE d el 
+DE d o m 
+DEN d e n 
+DENNA d e n a 
+DESSA d e s a 
+DESTINATION d e s t i n a t S ul n 
+DET d e 
+DET d el t 
+DETTA d e t a 
+DIN d i n 
+DIREKT d i r e k t 
+DIT d il t 
+DJURÖ j uxl r oel 
+DOM d u m 
+DROTTNINGHOLM d r o t n i ng h o l m 
+DU d uxl 
+DUMMA d ox m a 
+DÅ d ol 
+DÄ d ael 
+DÄR d ael r 
+DÄRIFRÅN d ael r i f r o n 
+DÖRREN d oe r e n 
+EDESÖN el d e s oel n 
+EFTER e f t e r 
+EFTER e f t ae r 
+EFTERMIDDAG e f t ae r m i d a 
+EFTERMIDDAGEN e f t ae r m i d a n 
+EJ e j 
+ELLER e l e r 
+EN e n 
+END e n d 
+ENKELRUM e n k e l r ox m 
+ETT e t 
+EXEMPEL e k s e m p e l 
+EXPLODERADE e k s p l o d el r a d e 
+FALL f a l 
+FAST f a s t 
+FEL f el l 
+FINNAS f i n a s 
+FINNHAMN f i n h a m n 
+FINNHAMNS f i n h a m n s 
+FINNS f i n s 
+FJÄDERHOLMARNA f j ael d ae r h o l m n a 
+FJÄRDLÅNG f j ael dr l o ng 
+FORTFARANDE f ul tr f al r a n d e 
+FORTKÖRNING f ul tr S oel nr i ng 
+FORTSÄTTA f t C ae t a 
+FRAM f r a m 
+FRAMME f r a m e 
+FREDAG f r el d a 
+FREDAG f r el d a g 
+FREDAGAR f r el d al g a r 
+FREDAGEN f r el d a n 
+FRYSER f r uel s ae r 
+FRÅGA f r ol g a 
+FRÅN f r ol n 
+FULLSTÄNDIG f ox l s t ae n d i g 
+FURUSUND f uxl r ox s ox n d 
+FURUSUNDS f uxl r ox s ox n d s 
+FYRVERKERIPJÄSER f uel r v ae r k ae r i p j ael s ae r 
+FÅ f ol 
+FÅR f ol r 
+FÅTT f o t 
+FÄRJAN f ae r j a n 
+FÖR f oel r 
+FÖRBI f oe r b il 
+FÖRE f oel r e 
+FÖRESTÄLLNINGEN f oel r e s t ae l n i ng e n 
+FÖRHÅLLANDE f oe r h o l a n d e 
+FÖRMIDDAG f oel r m i d a 
+FÖRSLAG f oe C lr al g 
+FÖRSTA f oe C tr a 
+FÖRSTÅ f oe C tr ol 
+FÖRSTÅR f oe C tr ol r 
+FÖRSTÅS f oe C tr ol s 
+GE j el 
+GER j el r 
+GICK j i k 
+GODDAG g u d al 
+GRAND g r a n d 
+GRANHOLMEN g r al n h o l m e n 
+GRATIS g r al t i s 
+GRINDA g r i n d a 
+GRUVBRYGGAN g r uxl v b r ue g a n 
+GÅ g ol 
+GÅNG g o ng 
+GÅR g ol r 
+GÄLLNÖ j ae l n oel 
+GÄRNA j ael nr a 
+GÖR j oel r 
+GÖRA j oel r a 
+HA h al 
+HALV h a l v 
+HAMN h a m n 
+HAMNAR h a m n a r 
+HAR h al r 
+HEJ h e j 
+HEJSAN h e j s a n 
+HELA h el l a 
+HELGEN h e l j e n 
+HELLRE h e l r e 
+HELST h e l s t 
+HEM h e m 
+HEMMA h e m a 
+HETER h el t ae r 
+HITTADE h i t a d e 
+HJÄLPEN j ae l p e n 
+HOTELL h u t e l 
+HOTELLEN h u t e l e n 
+HOTELLET h u t e l e t 
+HOTELLRUM h u t e l r ox m 
+HOTELLRUM h u t e l uxl m 
+HOTELLRUMMET h u t e l r ox m e t 
+HOTELLTABELLEN h u t e l t a b e l e n 
+HUNGRIG h ox ng r i g 
+HUR h uxl r 
+HUS h uxl s 
+HÅLLET h o l e t 
+HÄR h ael r 
+HÄRIFRÅN h ael r i f r o n 
+HÖGSKOLAN h oel g s k ul l a n 
+HÖJDEN h oe j d e n 
+I il 
+IDAG i d al g 
+IFRÅN i f r ol n 
+IGEN i j e n 
+IHJÄL i j ael l 
+IKVÄLL i k v ae l 
+IN i n 
+INFORMATION i n f o r m a S ul n 
+INFORMATIONEN i n f o r m a S ul n e n 
+INGA i ng a 
+INGEN i ng e n 
+INGENTING i ng e n t i ng 
+INGET i ng e t 
+INIFRÅN i n i f r ol n 
+INNAN i n a n 
+INNERSTAD i n e C tr al d 
+INTE i n t e 
+ISTÄLLET i s t ae l e t 
+JA j al 
+JAG j al 
+JAG j al g 
+JAHA j al h al ol 
+JAHA j al h al 
+JO j ul 
+JU j ox 
+JÄDRA j ael d r a 
+JÄVLA j ael v l a 
+KAJ k a j 
+KAJEN k a j e n 
+KAJPLATSER k a j p l a t s e r 
+KAN k a n 
+KAPELLSKÄR k a p e l S ael r 
+KARTA k al tr a 
+KARTAN k al tr a n 
+KLART k l al tr 
+KLIPPUDDEN k l i p ox d e n 
+KLOCKAN k l o k a n 
+KOMMA k o m a 
+KOMMER k o m e r 
+KOMMER k o m ae r 
+KONFERENS k o n f ae r e n s 
+KONFERENSHOTELL k o n f ae r e n s h o t e l 
+KONFERENSRUM k o n f ae r e n s r uxl m 
+KONFERERA k o n f ae r el r a 
+KONSTAPEL k o n s t al p e l 
+KONSTAPELN k o n s t al p e l 
+KORVKIOSK k o r v S o s k 
+KOSTA k o s t a 
+KOSTAR k o s t a r 
+KUNDE k ox n d e 
+KUNNA k ox n a 
+KVARNEN k v al nr e n 
+KVART k v al tr 
+KVÄLL k v ae l 
+KVÄLLAR k v ae l a r 
+KVÄLLARNA k v ae l n a 
+KVÄLLEN k v ae l e n 
+KYLIGT S uel l i g t 
+KYMMENDÖ S ue m e l d oel 
+KYMMENDÖ k ue m e n d oel 
+KYMMENDÖ S ue m e n d oel 
+KÄNNER S ae n ae r 
+KÖPA S oel p a 
+KÖRT S oel tr 
+LEDIGA l el d i g a 
+LEDIGT l el d i g t 
+LETAR l el t a r 
+LIDINGÖ l il d i n j oel 
+LIGGER l i g ae r 
+LIGGER l i g e r 
+LIKA l il k a 
+LILA l il l a 
+LILLSVED l i l s v el d 
+LISTA l i s t a 
+LOGI l o j il 
+LUFTEN l ox f t e n 
+LUNCH l ox n S 
+LÅDNA l o d n a 
+LÅNG l o ng 
+LÅNGT l o ng t 
+LÄGGER l ae g ae r 
+LÄMPLIGAST l ae m p l i g a s t 
+LÄNGE l ae ng e 
+LÄTTARE l ae t a r e 
+LÖKA l oel k a 
+LÖRDAG l oel dr a 
+LÖRDAGEN l oel dr a n 
+MAN m a n 
+MARÖ m al r oel 
+MAT m al t 
+MATSTÄLLE m a t s t ae l e 
+MED m el 
+MED m el d 
+MELLAN m e l a n 
+MEN m e n 
+MENADE m el n a d e 
+MENAR m el n a r 
+MER m el r 
+MEST m e s t 
+MIDDAG m i d a 
+MIG m e j 
+MINUTER m i n uxl t ae r 
+MITT m i t 
+MORD m ul dr 
+MORGON m o r o n 
+MORGONEN m o r o n e n 
+MYCKET m ue k e t 
+MÅNDAG m o n d a 
+MÅNGA m o ng a 
+MÅSTE m o s t e 
+MÖJA m oe j a 
+MÖJASTRÖM m oe j a s t r oe m 
+MÖJLIGHET m oe j l i g h el t 
+MÖJLIGHETER m oe j l i g h el t ae r 
+MÖJLIGT m oe j l i g t 
+NATIONALMUSEUM n a t S o n al l m ox s el ox m 
+NATT n a t 
+NATTEN n a t e n 
+NEJ n e j 
+NI n il 
+NOG n ul g 
+NORR n o r 
+NORRA n o r a 
+NORRSKÄR n o r S ael r 
+NORRTÄLJE n t ae l j e 
+NORRÖRA n o r oel r a 
+NU n uxl 
+NYA n uel a 
+NYBROKAJEN n uel b r u k a j e n 
+NYBROVIKEN n uel b r o v il k e n 
+NYNÄSHAMN n uel n ael s h a m n 
+NÅGON n o n 
+NÅGON n ol g o n 
+NÅGONSTANS n o n s t a n s 
+NÅGONSTANS n ol g o n s t a n s 
+NÅGOT n ol g o t 
+NÅGRA n ol g r a 
+NÅT n ol t 
+NÅTTARÖ n o t a r oel 
+NÄHÄ n ael h ael 
+NÄR n ael r 
+NÄRA n ael r a 
+NÄRHETEN n ael r h el t e n 
+NÄRLIGGANDE n ael r l i g a n d e 
+NÄRMAST n ae r m a s t 
+NÄRMASTE n ae r m a s t e 
+NÄRMSTA n ae r m s t a 
+NÄSTA n ae s t a 
+NÖJD n oe j d 
+NÖJER n oe j ae r 
+OCH ol 
+OCH o k 
+OCKSÅ o k s o 
+OFTA o f t a 
+OK ul S el ue 
+OK ul S el j 
+OK o k el j 
+OK o k e j 
+OLIKA ul l i k a 
+OM o m 
+OMBORD o m b ul dr 
+ONSDAG u n s d a 
+ONSDAGAR u n s d al g a r 
+ORNÖBODA ul nr oel b ul d a 
+OSS o s 
+PARENTESERNA p al r e n t e s ae nr a 
+PASSA p a s a 
+PASSANDE p a s a n d e 
+PENSIONAT p e n S ul n a t 
+PER p ael r 
+PERSON p ae C ul n 
+PIZZERIA p i s ae r i a 
+PLATS p l a t s 
+PLATSER p l a t s e r 
+PRIS p r il s 
+PRISER p r il s ae r 
+PRISET p r il s e t 
+PRISVÄRT p r i s v ael tr 
+PRÖVAR p r oel v a r 
+PÅ p ol 
+RAMSBERG r a m s b ae r j 
+RAMSÖBERG r a m s oel b ae r j 
+REDA r el d a 
+REPETERA r e p e t el r a 
+RESA r el s a 
+RESAN r el s a n 
+RESTAURANG r e s t o r a ng 
+RESTAURANGER r e s t ox r a ng ae r 
+RESTAURANGER r e s t uxl r a ng ae r 
+RETUR r e t uxl r 
+RIKTNINGEN r i k t n i ng e n 
+RINGER r i ng ae r 
+ROSLAGEN r u s l al g e n 
+RUM r ox m 
+RUMMEN r ox m e n 
+RUMMET r ox m e t 
+RUNT r ox n t 
+RÄCKER r ae k ae r 
+RÖDA r oel d a 
+RÖDLÖGA r oel d l oel g a 
+RÖRA r oel r a 
+SA s al 
+SALEN s al l e n 
+SALTSJÖBADEN s a l t S oel b al d e n 
+SAMMA s a m a 
+SANDHAMN s a n d h a m n 
+SCEN s el n 
+SCENARIET s el n a r i e t 
+SE s el 
+SEDAN s el d a n 
+SEGLARHOTELLET s el g l a r h o t e l e t 
+SENARE s el n a r e 
+SENT s el n t 
+SER s el r 
+SERVERING s ae r v el r i ng 
+SIG s e j 
+SISTA s i s t a 
+SJALTSÖSJÖBADEN S a l t s oel S oel b a d e n 
+SJÖBRIS S oel b r il s 
+SKA s k al 
+SKARPÖ s k a r p oel 
+SKILLNAD S i l n a d 
+SKILLNADEN S i l n a d e n 
+SKIMRADE S i m r a d e 
+SKINNARDAL s k i n d al l 
+SKINNARDAL s k i n a dr al l 
+SKINNARDAL S i n a dr al l 
+SKJUTA S uxl t a 
+SKULLE s k ox l e 
+SKÄRGÅRD S ael r g ol dr 
+SKÄRGÅRDEN S ael r g ol dr e n 
+SKÄRGÅRDEN S ael r g ol nr 
+SKÄRGÅRDEN s ael r g ol dr e n 
+SKÄRGÅRDSBÅT S ael r g ol dr C b ol t 
+SLUSSEN s l ox s e n 
+SLUT s l uxl t 
+SLUTA s l uxl t a 
+SLÅ s l ol 
+SMÅ s m ol 
+SNABBASTE s n a b a s t e 
+SOLLENKROKA s o l e n k r ul k a 
+SOM s o m 
+SOMMAREN s o m a r e n 
+SOVA s ol v a 
+SPRAKANDE s p r al k a n d e 
+STADSGÅRDSKAJEN s t al d s g ol dr s k a j e n 
+STADSHUSET s t al d s h uxl s e t 
+STADSHUSKAJEN s t al d s h ox s k a j e n 
+STAN s t al n 
+STANNAR s t a n a r 
+STARTPUNKTEN s t t p ox n k t e n 
+STAVESTRÖM s t al v e s t r oe m 
+STAVSNÄS s t al v s n ael s 
+STIGA s t il g a 
+STJÄRNORNA S ael nr n a 
+STOCKHOLM s t o k h o l m 
+STOCKHOLM s t o k o l m 
+STOCKHOLMS s t o k h o l m s 
+STOCKHOLMS s t o k o l m s 
+STOCKHOLMSHAMN s t o k h o l m s h a m n 
+STOLAR s t ul l a r 
+STORA s t ul r a 
+STORSKÄR s t ul r S ael r 
+STRUNT s t r ox n t 
+STRUNTAR s t r ox n t a r 
+STRÖMKAJEN s t r oe m k a j e n 
+STÄLLE s t ae l e 
+STÄLLEN s t ae l e n 
+STÄLLET s t ae l e t 
+SVARA s v al r a 
+SVARTLÖGA s v t l oel g a 
+SVÅRT s v ol tr 
+SYDÖSTRA s ue d oel s t r a 
+SYMFONI s ue m f u n il 
+SYND s ue n d 
+SYSTEMET s ue s t el m e t 
+SÅ s ol 
+SÅDÄR s ol d ael r 
+SÅKLART s ol k l t 
+SÄGA s ae j a 
+SÖDERÖRA s oel d e r oel r a 
+SÖDRA s oel d r a 
+SÖKA s oel k a 
+SÖNDAG s oe n d a 
+SÖNDAGAR s oe n d al g a r 
+TA t al 
+TABELL t a b e l 
+TACK t a k 
+TACKA t a k a 
+TACKAR t a k a r 
+TALA t al l a 
+TAR t al r 
+TEKNISKA t e k n i s k a 
+TELEFONNUMMER t e l e f o n ox m ae r 
+TELEFONNUMRET t e l e f o n uxl m r e t 
+THÖRNHJORT t oel nr j ul tr 
+TID t il d 
+TIDEN t il d e n 
+TIDER t il d ae r 
+TIDERNA t il d ae nr a 
+TIDIGARE t il d i g a r e 
+TIDIGT t il d i t 
+TIDTABELL t il d t a b e l 
+TIDTABELLEN t il d t a b e l e n 
+TILL t i l 
+TILLBAKA t i b al k a 
+TILLBAKA t i l b al k a 
+TILLBAKA t i b al k s 
+TILLBAKA t i l b a k s 
+TILLÅTEN t i l l ol t e n 
+TIMME t i m e 
+TIMMEN t i m e n 
+TISDAG t il s d a 
+TISDAGAR t il s d al g a r 
+TITTADE t i t a d e 
+TJOCKÖ S o k oel 
+TORSDAG t ul C d a 
+TORSDAGARNA t ul C d al g n a 
+TRE t r el 
+TREVLIG t r el v l i g 
+TREVLIGA t r el v l i g a 
+TROR t r ul r 
+TROR t r u r 
+TRYCKA t r ue k a 
+TRÖTT t r oe t 
+TUR t uxl r 
+TURER t uxl r ae r 
+TURLISTA t uxl lr i s t a 
+TYCKER t ue k ae r 
+TÄLT t ae l t 
+TÄLTA t ae l t a 
+TÄLTNINGSPLATS t ae l t n i ng s p l a t s 
+TÄNKTE t ae n k t e 
+UNDER ox n d ae r 
+UNDRAR ox n d r a r 
+UNGEFÄR ox n j e f ael r 
+UPP ox p 
+UPPLYSNINGARNA ox p l ue s n i ng n a 
+UT uxl t 
+UTANFÖR uxl t a n f oel r 
+UTAV uxl t a v 
+UTE uxl t e 
+UTI ox t il 
+UTVILADE uxl t v il l a d e 
+UTÖ uxl t oel 
+VA v al 
+VAD v al 
+VANDRARHEM v a n d r a r h e m 
+VANDRARHEMMEN v a n d r a r h e m e n 
+VANDRARHEMMET v a n d r a r h e m e t 
+VAR v al r 
+VARA v al r a 
+VARDAG v al dr a 
+VARIFRÅN v a r i f r ol n 
+VARIFRÅN v al tr i f r ol n 
+VARIFRÅN v al r i f r ol n 
+VART v al t 
+VAXHOLM v a k s h o l m 
+VAXHOLMS v a k s h o l m s 
+VAXHOLMS v a k s o l m s h u t e l 
+VAXHOLMSBÅT v a k s h o l m s b ol t 
+VAXHOLMSBÅTAR v a k s h o l m s b ol t a r 
+VAXHOLMSBÅTARNA v a k s h o l m s b ol t n a 
+VAXHOLMSBÅTEN v a k s h o l m s b ol t e n 
+VECKAN v e k a n 
+VECKODAGAR v e k u d a g a r 
+VEGABRYGGAN v el g a b r ue g a n 
+VERKAR v ae r k a r 
+VET v el t 
+VETA v el t a 
+VETTERSÖ v e t s oel 
+VI v il 
+VIA v il a 
+VID v il d 
+VIDARE v il d a r e 
+VILJA v i l j a 
+VILKA v i l k a 
+VILKEN v i l k e n 
+VILKEN v i l k e t 
+VILKET v i l k e t 
+VILL v i l 
+VILLE v i l e 
+VISA v il s a 
+VÄG v ael g 
+VÄL v ael l 
+VÄLJA v ae l j a 
+VÄLJER v ae l j ae r 
+VÄRMDÖ v ae r m d oel 
+VÄRRE v ae r e 
+VÄSBYSTRAND v ael s b ue s t r a n d 
+Å ol 
+ÅKA ol k a 
+ÅKER ol k ae r 
+ÅKT o k t 
+ÅNGBÅTSBRYGGA o ng b o t s b r ue g a 
+ÅRET ol r e t 
+ÅRSTA s tr a 
+ÅT ol t 
+ÅTA ol t al 
+ÄH ael h 
+ÄN ae n 
+ÄR ael r 
+ÄR oel r 
+ÄTA ael t a 
+ÄVEN ael v e n 
+Ö oel 
+ÖAR oel a r 
+ÖARNA oel n a 
+ÖN oel n 
+ÖNSKAR oe n s k a r 
+ÖPPEN oe p e n 
+ÖPPET oe p e t 
+ÖPPNA oe p n a 
+ÖSTAN oe s t a n 
+ÖSTERMALM oe s t ae r m a l m 
+ÖSTERMALMSTORG oe s t ae r m a l m s t o r j 
+ÖVER oel v ae r 
+ÖVERNATTA oel v ae r n a t a 
+ÖVERNATTNING oel v ae r n a t n i ng 
+ÖVERNATTNINGSMÖJLIGHETER oel v ae e n a t n i ng s m oe j l i g h el t ae r 
+ÖVERNATTNINGSMÖJLIGHETER oel v ae r n a t n i ng s m oe j l i g h el t e r 
