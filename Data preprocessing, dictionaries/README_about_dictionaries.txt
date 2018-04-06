@@ -4,4 +4,4 @@ When training and/or aligning data with MFA, you need a dictionary with phonetic
 In other subdirectories you find other dictionary related programs:
 1) the program convert_NST_lexicon.py in the subdirectory NST lexicon converts the dictionary given from the NST to the format needed by MFA
 2) the program dict.c in the subdirectory Data preprocessing Waxholm creates a dictionary from the textfiles created by the program mix2lab.c, also in the subdirectory Data preprocessing Waxholm
-3) a program creating a dictionary from the KI data, soon to be uploaded
+3) the program build_lexicon.py in the subdirectory Data preprocessing KI creates a dictionary from the FTARGET files created by the program split_data.py, also in the subdirectory Data preprocessing KI.
